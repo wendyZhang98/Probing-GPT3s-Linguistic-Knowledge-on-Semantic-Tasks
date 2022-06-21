@@ -1,3 +1,3 @@
 # GPT3-Linguistic-Knowledge-Profiling
 
-[Report](https://github.com/wendyZhang98/GPT3-Linguistic-Knowledge-Profiling/blob/main/Profiling%20GPT-3%E2%80%99s%20Linguistic%20Knowledge.pdf)
+[Report](https://drive.google.com/file/d/1UlDs3ZfKpuN1U1RDiblPWPog2N-ZoOwh/view?usp=sharing)
