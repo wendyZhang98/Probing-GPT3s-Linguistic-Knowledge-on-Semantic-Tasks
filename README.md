@@ -1,3 +1,3 @@
 # GPT3-Linguistic-Knowledge-Profiling
 
-[Report](https://drive.google.com/file/d/1UlDs3ZfKpuN1U1RDiblPWPog2N-ZoOwh/view?usp=sharing)
+[Probing GPT-3’s Linguistic Knowledge on Semantic Tasks](https://openreview.net/forum?id=7rVRbxDPslo)
